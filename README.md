@@ -484,6 +484,7 @@ More specific topics:
   - Take regular breaks
   - Don’t code late at night
   - Improve your coding environment
+- [Awayra](https://github.com/AWAYRA/AWAYRA-WPF): free, offline Windows reminders for eye rests and movement breaks, with independently adjustable schedules.
 - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 - [Microservices aren't the problem. Incompetent people are](https://nondv.wtf/blog/posts/microservices-arent-the-problem-incompetent-people-are.html)
 - [High Agency](https://www.highagency.com/) (30-min read)
